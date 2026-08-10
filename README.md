@@ -26,8 +26,16 @@ crew allocator. A thirteen-app low-code estate across three countries on one sha
 model. Two-way API integration, OAuth2 service accounts, idempotent ETL, BigQuery. AI-native
 delivery through Claude Code and MCP-connected agents.
 
-Before the engineering there was a career sales record across enterprise B2B and high-net-worth
-markets, so I can run the discovery as well as the build.
+Before the engineering there was design, and there was selling, and all three are one career.
+Nearly two decades in design: CAD kitchens and fitted furniture, then the regional agency for the
+design system itself. A sales record running from high-net-worth property to enterprise B2B. And I
+have co-founded businesses, written the software that ran them, and sold them, most recently a pool
+service company I [started with a pickup and scaled on an ERP I wrote six months
+in](https://github.com/tnc-usa/solutions-engineering-portfolio/blob/main/writeups/08_bali_pools_erp.md).
+
+Specifying work with a customer and pricing it while they watch is where all three meet. It is why
+I can run the discovery as well as the build, and why the line about small and medium businesses at
+the top is not a marketing claim.
 
 **Start here**
 
