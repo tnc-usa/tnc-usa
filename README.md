@@ -17,7 +17,8 @@ knowing which of those a given layer actually needs.
 - An operations warehouse on D1 with a ten-minute cron ETL, multi-tenant from the first
   commit, over a source system that hard-deletes its own history on a rolling window.
 - AI in production on the Anthropic Claude API: server-side keys, hard daily spend caps, rate
-  limiting, KV caching, bot protection, and cost-based routing across two models.
+  limiting, KV caching and bot protection, and the judgement to take the model out where a
+  bundled dataset or a static file does the job better.
 
 **Also**
 
@@ -25,6 +26,10 @@ Production route optimization on Google Cloud Fleet Routing with a custom constr
 crew allocator. A thirteen-app low-code estate across three countries on one shared relational
 model. Two-way API integration, OAuth2 service accounts, idempotent ETL, BigQuery. AI-native
 delivery through Claude Code and MCP-connected agents.
+
+A personal sports-betting assistant that never places a bet: prices from a licensed odds
+aggregator, fair-price and stake arithmetic, and a ledger graded from the scores, on a Worker
+with D1 and cron jobs. I ran it live for a week in September 2026 and then mothballed it.
 
 Before the engineering there was design, and there was selling, and all three are one career.
 Nearly two decades in design: CAD kitchens and fitted furniture, then the regional agency for the
